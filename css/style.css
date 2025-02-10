@@ -310,6 +310,14 @@ textarea {
     object-fit: cover;
     padding: 10px;
   }
+  .projects__row-img-large {
+    width: 300px;
+    /* height: auto;
+    display: block;
+    object-fit: cover; */
+    /* padding: 10px; */
+  }
+
   .projects__row-content {
     padding: 2rem 0;
     display: flex;
